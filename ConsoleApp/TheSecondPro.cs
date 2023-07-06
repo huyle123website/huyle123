@@ -5,7 +5,7 @@ namespace ConsoleApp
 	{
 		public TheSecondPro()
 		{
-			Console.WriteLine("Something");
+			Console.WriteLine("Something 123");
 		}
 	}
 }
